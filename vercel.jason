@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd shortlink-app && npm install && npm run build",
-  "outputDirectory": "shortlink-app/.next",
-  "framework": "nextjs"
-}
